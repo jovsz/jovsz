@@ -64,6 +64,10 @@
    <a href="https://www.postgresql.org" target="_blank">
     <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-FF4B4B?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
+
+  <a href="https://www.jenkins.io" target="_blank">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-FF4B4B?style=for-the-badge&logo=jenkins&logoColor=black">
+  </a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
