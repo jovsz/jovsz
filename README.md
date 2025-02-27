@@ -62,13 +62,20 @@
     <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-FF4B4B?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 
+   <a href="https://www.mysql.com/" target="_blank">
+    <img alt="Mysql" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  https://img.shields.io/badge/graphql-purple?style=for-the-badge&logo=graphql&logoColor=white
+   <a href="https://graphql.org/" target="_blank">
+    <img alt="Graphql" src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=purple">
+   </a>
   <a href="https://www.jenkins.io" target="_blank">
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-FF4B4B?style=for-the-badge&logo=jenkins&logoColor=white">
   </a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-
+<a href="https://www.kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-3776AB?style=for-the-badge&logo=kubernetes&logoColor=white" ></a>
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
