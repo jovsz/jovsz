@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.python.org" target="_blank">
-  	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   </a>
 
    <a href="https://www.typescriptlang.org" target="_blank">
@@ -65,7 +65,6 @@
    <a href="https://www.mysql.com/" target="_blank">
     <img alt="Mysql" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  https://img.shields.io/badge/graphql-purple?style=for-the-badge&logo=graphql&logoColor=white
    <a href="https://graphql.org/" target="_blank">
     <img alt="Graphql" src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=purple">
    </a>
